@@ -1,5 +1,5 @@
 # 💫 About Me:
-Devops enthusiast
+<b>Devops enthusiast</b>
 
 
 ## 🌐 Socials:
